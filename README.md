@@ -16,7 +16,7 @@ A project to continually validate the interoperability of each CNCF project, for
 - [Cross-project](https://github.com/crosscloudci/cross-project) - Project app and e2e test container builder / Project to Cross-cloud CI integration point
   * Deploys containerized apps and runs upstream project tests supplying results to the Cross-cloud dashboard.
   * Builds and registers containerized apps as well as their related e2e tests for deployment.
-- [Cross-cloud CI Dashboard](https://github.com/crosscloudci/cncf-ci-dashboard)
+- [Cross-cloud CI Dashboard](http://cncf.ci)
   * Provides a high-level view of the interoperability status of CNCF projects for each supported cloud provider.
 
 The [CNCF CI Dashboard](http://cncf.ci) shows the latest results of testing for CNCF projects/clouds (supported and active).
