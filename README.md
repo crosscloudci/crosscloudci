@@ -2,9 +2,7 @@
 
 ### Why Cross-cloud CI?
 
-The CNCF CI Working Group has been tasked with demonstrating best practices for integrating, testing, and deploying projects within the CNCF ecosystem across multiple cloud providers.
-
-Help ensure the CNCF projects deploy and run sucessfully on each supported cloud providers.
+The CNCF CI Working Group has been tasked with building a cross project and cross cloud test system that compliments existing project CI systems which tests the interoperability of projects within the CNCF ecosystem across multiple cloud providers. The results of the tests should be publicly accessible from a user friendly dashboard.
 
 ### What is Cross-cloud CI?
 
