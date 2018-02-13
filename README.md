@@ -29,7 +29,6 @@ The [CNCF CI Dashboard](http://cncf.ci) shows the latest results of testing for 
 
 #### Upcoming
 - February, 2018 - Intro call with Packet+Arm team, TBD
-- February 13th, 2018 - CI-WG Status Update on 2nd Tuesday at 8am Pacific
 - February 27th, 2018 - CI-WG Status Update on 4th Tuesday at 8am Pacific
 - March 24th-25th, 2018 - [Cross Community Infra and CICD F2F/Workshop in Los Angeles](https://public.etherpad-mozilla.org/p/cross-community-infra-cicd)
 - March 26th-29th, 2018 - [ONS North America 2018 in Los Angeles](https://events.linuxfoundation.org/events/open-networking-summit-north-america-2018/)
@@ -38,6 +37,8 @@ The [CNCF CI Dashboard](http://cncf.ci) shows the latest results of testing for 
 
 
 #### Past
+- [February 13th, 2018 - CI-WG Status Update on 2nd Tuesday at 8am Pacific]
+(https://docs.google.com/presentation/d/1J51D4uRLgS6o_J7xkHbQmVPxVjmceuYTr_we1MeCOI4/edit?ts=5a832888#slide=id.g24450b0d21_0_222)
 - [January 26th, 2018 - Cross-Cloud CI Dashboard v1.0.0 Release](https://docs.google.com/presentation/d/1hhhx0C3REd3l94QU-0DB6Try4jdHZ8ou2klzJOfCC9M/edit?usp=sharing)
 - [January 23rd, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1j8wa5xGMFFiLBwxuu4xyhtMFUyGSnDb-EIJY2ghsf-A/)
 - January 18th, 2018 - Cross Cloud project demo with Lucas Käldström
