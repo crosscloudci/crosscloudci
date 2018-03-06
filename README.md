@@ -9,19 +9,25 @@ The CNCF ecosystem is large, diverse and continues to grow. CNCF would like to e
 
 The Cross-cloud CI project consists of a cross-cloud testing system, status repository server and a dashboard. The cross-cloud testing system has 3 components (build, cross-cloud, cross-project) that continually validate the interoperability of each CNCF project for any commit on stable and head across all supported cloud providers. The cross-cloud testing system can reuse existing artifacts from a project’s preferred CI system or generate new build artifacts. The status repository server collects the test results and the dashboard displays them.
 
-The Cross-cloud project is composed of the following components:
-- Build Pipeline per project (optional, can use project’s build artifacts)
+The Cross-cloud CI project is composed of 3 main components:
 
-- Cloud Provisioning Pipeline [Cross-cloud](https://github.com/crosscloudci/cross-cloud) Cross-cloud - Multi-cloud kubernetes provisioner
-  * Creates K8s clusters on cloud providers
-  * Supplies conformance validated Kubernetes end-points for each cloud provider with cloud specific features enabled
-- App Deployment Pipeline [Cross-project](https://github.com/crosscloudci/cross-project) - Project app and e2e test container builder / Project to Cross-cloud CI integration point
-  * Deploys containerized apps and runs upstream project tests supplying results to the Cross-cloud dashboard.
-  * Builds and registers containerized apps as well as their related e2e tests for deployment.
-- [Cross-cloud CI Dashboard](http://cncf.ci)
-  * Provides a high-level view of the interoperability status of CNCF projects for each supported cloud provider.
+1. Cross-cloud testing system:
+- Build Pipeline Stage per project (optional, can use project’s build artifacts)
+  * Compiles binaries
+  * Creates containers
+- Cloud Provisioning Pipeline Stage, aka [Cross-cloud](https://github.com/crosscloudci/cross-cloud) 
+  * Deploys K8s onto each cloud
+- App Deployment Pipeline Stage, aka [Cross-project](https://github.com/crosscloudci/cross-project) 
+  * Deploys containerized apps onto Kubernetes 
+  * Runs upstream e2e tests for each project 
+  * Supplies results to the Cross-cloud dashboard
 
-The [CNCF CI Dashboard](http://cncf.ci) shows the latest results of testing for CNCF projects/clouds (supported and active).
+2. Status Repository Server
+  * Stores the interoperability status of CNCF projects
+
+3. [Cross-cloud CI Dashboard](https://cncf.ci)
+  * Displays a high-level view of the interoperability status of CNCF projects for each supported cloud provider.
+  
 
 ### How to use the Cross-Cloud CI Project
 
