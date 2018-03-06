@@ -23,10 +23,10 @@ The Cross-cloud CI project is composed of 3 main components:
   * Supplies results to the Cross-cloud dashboard
 
 2. Status Repository Server
-  * Stores the interoperability status of CNCF projects
+   * Stores the interoperability status of CNCF projects
 
 3. [Cross-cloud CI Dashboard](https://cncf.ci)
-  * Displays a high-level view of the interoperability status of CNCF projects for each supported cloud provider.
+   * Displays a high-level view of the interoperability status of CNCF projects for each supported cloud provider.
   
 
 ### How to use the Cross-Cloud CI Project
