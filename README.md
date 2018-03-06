@@ -2,16 +2,20 @@
 
 ### Why Cross-cloud CI?
 
-The CNCF CI Working Group has been tasked with building a cross project and cross cloud test system that compliments existing project CI systems which tests the interoperability of projects within the CNCF ecosystem across multiple cloud providers. The results of the tests should be publicly accessible from a user friendly dashboard.
+The CNCF ecosystem is large, diverse and continues to grow. CNCF would like to ensure cross-project interoperability and cross-cloud deployments of all cloud native technologies and show the daily status of builds and deployments on a status dashboard. 
 
 ### What is Cross-cloud CI?
 
 
-A project to continually validate the interoperability of each CNCF project, for every commit on stable and HEAD, for all supported cloud providers with the results published to the Cross-cloud public dashboard. The Cross-cloud project is composed of the following components:
-- [Cross-cloud](https://github.com/crosscloudci/cross-cloud) Cross-cloud - Multi-cloud kubernetes provisioner
+The Cross-cloud CI project consists of a cross-cloud testing system, status repository server and a dashboard. The cross-cloud testing system has 3 components (build, cross-cloud, cross-project) that continually validate the interoperability of each CNCF project for any commit on stable and head across all supported cloud providers. The cross-cloud testing system can reuse existing artifacts from a project’s preferred CI system or generate new build artifacts. The status repository server collects the test results and the dashboard displays them.
+
+The Cross-cloud project is composed of the following components:
+- Build Pipeline per project (optional, can use project’s build artifacts)
+
+- Cloud Provisioning Pipeline [Cross-cloud](https://github.com/crosscloudci/cross-cloud) Cross-cloud - Multi-cloud kubernetes provisioner
   * Creates K8s clusters on cloud providers
   * Supplies conformance validated Kubernetes end-points for each cloud provider with cloud specific features enabled
-- [Cross-project](https://github.com/crosscloudci/cross-project) - Project app and e2e test container builder / Project to Cross-cloud CI integration point
+- App Deployment Pipeline [Cross-project](https://github.com/crosscloudci/cross-project) - Project app and e2e test container builder / Project to Cross-cloud CI integration point
   * Deploys containerized apps and runs upstream project tests supplying results to the Cross-cloud dashboard.
   * Builds and registers containerized apps as well as their related e2e tests for deployment.
 - [Cross-cloud CI Dashboard](http://cncf.ci)
