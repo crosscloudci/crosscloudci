@@ -38,14 +38,14 @@ The Cross-cloud CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
-- March, 2018 - Intro call with Packet+Arm team, TBD
-- March 24th-25th, 2018 - [Cross Community Infra and CICD F2F/Workshop in Los Angeles](https://public.etherpad-mozilla.org/p/cross-community-infra-cicd)
 - March 26th-29th, 2018 - [ONS North America 2018 in Los Angeles](https://events.linuxfoundation.org/events/open-networking-summit-north-america-2018/)
+- April 3rd, 2018 - Cross-cloud CI Overview and updates for TOC Meeting
 - May 2nd-4th, 2018 - [KubeCon CloudNativeCon Europe in Copenhagen, Denmark](https://www.google.com/url?q=https%3A%2F%2Fevents.linuxfoundation.org%2Fevents%2Fkubecon-cloudnativecon-europe-2018%2F&sa=D&ust=1515523215433000&usg=AFQjCNHskvq8WRzkzRNuh9A8rGjCJcvoyg)
 
 
 
 #### Past
+- [March 24th, 2018 - Cross-cloud CI Overview at CI/CD Community Workshop](https://docs.google.com/presentation/d/1241RB9tJALXSFXJKbd7z3NU1mw06j_p6RnMKNcm0gAs/edit#slide=id.g24450b0d21_0_222)
 - [March 13th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1yIZ8p8_3rqrT81rCsQtA1Burbfz6IAEF8wCsgOGT5Jc/edit#slide=id.g24450b0d21_0_222)
 - [February 27th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1Yd2rH5PlwmhRoVCeIgI-kWpalRZ_ipgbtn5n0V58uRI/edit#slide=id.g24450b0d21_0_222)
 - [February 13th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1J51D4uRLgS6o_J7xkHbQmVPxVjmceuYTr_we1MeCOI4/edit?ts=5a832888#slide=id.g24450b0d21_0_222)
