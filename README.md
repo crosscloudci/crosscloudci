@@ -38,8 +38,6 @@ The Cross-cloud CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
-- March 26th-29th, 2018 - [ONS North America 2018 in Los Angeles](https://events.linuxfoundation.org/events/open-networking-summit-north-america-2018/)
-- April 3rd, 2018 - Cross-cloud CI Overview and updates for TOC Meeting
 - May 2nd-4th, 2018 - [KubeCon CloudNativeCon Europe in Copenhagen, Denmark](https://www.google.com/url?q=https%3A%2F%2Fevents.linuxfoundation.org%2Fevents%2Fkubecon-cloudnativecon-europe-2018%2F&sa=D&ust=1515523215433000&usg=AFQjCNHskvq8WRzkzRNuh9A8rGjCJcvoyg)
 
 
