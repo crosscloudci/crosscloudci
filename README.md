@@ -38,11 +38,18 @@ The Cross-cloud CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
+- April 11th, 2018 - Cross-cloud CI project intro with Spinnaker
+- April 12th, 2018 - Cross-cloud CI project intro with VMware
+- April 24th, 2018 - CI-WG Status Update
 - May 2nd-4th, 2018 - [KubeCon CloudNativeCon Europe in Copenhagen, Denmark](https://www.google.com/url?q=https%3A%2F%2Fevents.linuxfoundation.org%2Fevents%2Fkubecon-cloudnativecon-europe-2018%2F&sa=D&ust=1515523215433000&usg=AFQjCNHskvq8WRzkzRNuh9A8rGjCJcvoyg)
-
+- May 3rd, 2018 - [Intro to CNCF CI/WG and Cross-cloud CI project](https://kccnceu18.sched.com/event/DrnT/cncf-cicd-wg-intro)
+- May 4th, 2018 - [Deep Dive for CNCF CI/WG and Cross-cloud CI project](https://kccnceu18.sched.com/event/DroD/cncf-cicd-working-group-deep-dive)
+- May 8th, 2018 - CI-WG Status Update
 
 
 #### Past
+- [April 10th, 2018 - Cross-cloud CI project demo with Cluster Lifecycle SIG](https://docs.google.com/presentation/d/1qpUXDgK3TzK2lJWVN7YJJWMb-Lr37g-RdT4tDYXoRn0/edit#slide=id.g24450b0d21_0_222)
+- [April 10th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1Cjyv-FD8hLbHG876jUeVQsGWHSezZrqZ0xJ83eDfHxA/edit) 
 - [April 9th, 2018 - Cross-cloud CI project demo with IBM Cloud-Technical Overview](https://docs.google.com/presentation/d/160uOVQ7BDld5o7BCpPurbuSjAFfsESLEdP79fCu7GlQ/edit#slide=id.g24450b0d21_0_222) 
 - [April 5th, 2018 - Cross-cloud CI project demo with IBM Cloud-ONAP Overview](https://docs.google.com/presentation/d/1VXmB4KVncDXO4cq4cBg8IfGOrbVlZc5xW7wsdmOrL9A/edit#slide=id.g24450b0d21_0_222) & [Recording](https://drive.google.com/file/d/1ahx3CHEjx_eG2i7JUYVFHXL5wSPmzLhF/view)
 - [April 4th, 2018 - CNCF TOC](https://youtu.be/uEPRv2a3Scs?t=975)
