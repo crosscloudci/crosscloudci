@@ -52,7 +52,7 @@ The Cross-cloud CI project is composed of 3 main components:
 - [April 10th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1Cjyv-FD8hLbHG876jUeVQsGWHSezZrqZ0xJ83eDfHxA/edit) 
 - [April 9th, 2018 - Cross-cloud CI project demo with IBM Cloud-Technical Overview](https://docs.google.com/presentation/d/160uOVQ7BDld5o7BCpPurbuSjAFfsESLEdP79fCu7GlQ/edit#slide=id.g24450b0d21_0_222) 
 - [April 5th, 2018 - Cross-cloud CI project demo with IBM Cloud-ONAP Overview](https://docs.google.com/presentation/d/1VXmB4KVncDXO4cq4cBg8IfGOrbVlZc5xW7wsdmOrL9A/edit#slide=id.g24450b0d21_0_222) & [Recording](https://drive.google.com/file/d/1ahx3CHEjx_eG2i7JUYVFHXL5wSPmzLhF/view)
-- [April 4th, 2018 - CNCF TOC](https://youtu.be/uEPRv2a3Scs?t=975)
+- [April 3rd, 2018 - CNCF TOC](https://youtu.be/uEPRv2a3Scs?t=975)
 - [March 26th, 2018 - Cross-cloud CI + ONAP in ONS2018 Opening Keynote](https://youtu.be/eY2cHHMzOZw?t=1110)
 - [March 24th, 2018 - Cross-cloud CI Overview at CI/CD Community Workshop](https://docs.google.com/presentation/d/1241RB9tJALXSFXJKbd7z3NU1mw06j_p6RnMKNcm0gAs/edit#slide=id.g24450b0d21_0_222)
 - [March 13th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1yIZ8p8_3rqrT81rCsQtA1Burbfz6IAEF8wCsgOGT5Jc/edit#slide=id.g24450b0d21_0_222)
