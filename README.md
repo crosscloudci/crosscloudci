@@ -86,3 +86,13 @@ The Cross-cloud CI project is composed of 3 main components:
 - [August 8th, 2017 - CI-WG ii.coop Status Updates](https://docs.google.com/presentation/d/1dgkeXN7qSJ8tSUTZ5ecB67D155Y0Mphrpqi9ZFZXWKo/edit#slide=id.g242b36cf7c_0_10)
 - [July 11th, 2017 - Kubernetes SIG Testing](https://www.youtube.com/watch?v=DQGcv2a4qXQ&list=PL69nYSiGNLP0ofY51bEooJ4TKuQtUSizR&index=1)
 - [June 27, 2017 - CI-WG cross-cloud and containerops demos](https://www.youtube.com/watch?v=Jc5EJVK7ZZk&feature=youtu.be&t=307)
+
+
+### In the news:
+
+- [Kubernetes 1.10 and Cross-Cloud CI Project Dashboard 1.3 Released, and Kubernetes Survey Announced](https://www.infoq.com/news/2018/04/kubernetes-1.10-cross-cloud)
+- [CNCF: Containerize Your Legacy!](https://www.lightreading.com/nfv/containers/cncf-containerize-your-legacy!/d/d-id/741954)
+- [CNCF Launches Cross-Cloud CI Project & Adds ONAP Networking Project to Dashboard Overview](https://www.cncf.io/blog/2018/03/27/cncf-launches-cross-cloud-ci-project-adds-onap-networking-project-to-dashboard-overview/)
+- [ONAP, CNCF Come Together on Containers](https://www.lightreading.com/nfv/containers/onap-cncf-come-together-on-containers/d/d-id/741790)
+- [CNCF Unveils Continuous Integration Platform for Kubernetes](https://containerjournal.com/2018/03/27/cncf-unveils-continuous-integration-platform-kubernetes/)
+- [CNCF, Packet Provide Free Infrastructure for Cloud Developers](https://thenewstack.io/cncf-packet-team-provide-free-infrastructure-cloud-developers/)
