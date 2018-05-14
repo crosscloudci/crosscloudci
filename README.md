@@ -42,8 +42,8 @@ The Cross-cloud CI project is composed of 3 main components:
 
 
 #### Past
-- [May 4th, 2018 - Deep Dive for CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1fpUdXYV230ciZPb-EHveKCkQUW2Fz63lsHjG4Lt1qlg/edit#slide=id.p3) [Recording](https://youtu.be/m-WK-pOs5TA)
-- [May 3rd, 2018 - Intro to CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1mpcuGlP5yzvKmYYOFB0L9WWSFPUnhIQ1E2jT8ko6bqc/edit#slide=id.p3) [Recording](https://youtu.be/wb7aCAk1VFU)
+- [May 4th, 2018 - Deep Dive for CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1fpUdXYV230ciZPb-EHveKCkQUW2Fz63lsHjG4Lt1qlg/edit#slide=id.p3) & [Recording](https://youtu.be/m-WK-pOs5TA)
+- [May 3rd, 2018 - Intro to CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1mpcuGlP5yzvKmYYOFB0L9WWSFPUnhIQ1E2jT8ko6bqc/edit#slide=id.p3) & [Recording](https://youtu.be/wb7aCAk1VFU)
 - [April 24th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1jGp_qyMA877k5hnThiJkS1Rr1e-tVb8L2CcDGmSbscU/edit#slide=id.g3783789093_0_269)
 - [April 12th, 2018 - Cross-cloud CI project intro with VMware](https://docs.google.com/presentation/d/1p9ho9RkHdeja11wq20S_ctPbgEa_pY3KaETzfW87_Os/edit#slide=id.g24450b0d21_0_222)
 - [April 11th, 2018 - Cross-cloud CI project intro with Spinnaker](https://docs.google.com/presentation/d/1cse3qkQgDWzF42I77X0Uo-00KID0Q4w3tZRpEw4zx-M/edit)
