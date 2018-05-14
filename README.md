@@ -38,14 +38,13 @@ The Cross-cloud CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
-- April 24th, 2018 - CI-WG Status Update
-- May 2nd-4th, 2018 - [KubeCon CloudNativeCon Europe in Copenhagen, Denmark](https://www.google.com/url?q=https%3A%2F%2Fevents.linuxfoundation.org%2Fevents%2Fkubecon-cloudnativecon-europe-2018%2F&sa=D&ust=1515523215433000&usg=AFQjCNHskvq8WRzkzRNuh9A8rGjCJcvoyg)
-- May 3rd, 2018 - [Intro to CNCF CI/WG and Cross-cloud CI project](https://kccnceu18.sched.com/event/DrnT/cncf-cicd-wg-intro)
-- May 4th, 2018 - [Deep Dive for CNCF CI/WG and Cross-cloud CI project](https://kccnceu18.sched.com/event/DroD/cncf-cicd-working-group-deep-dive)
-- May 8th, 2018 - CI-WG Status Update
+- May 22nd, 2018 - CI-WG Status Update (4th Tuesday at 8am Pacific Time)
 
 
 #### Past
+- [May 4th, 2018 - Deep Dive for CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1fpUdXYV230ciZPb-EHveKCkQUW2Fz63lsHjG4Lt1qlg/edit#slide=id.p3) [Recording](https://youtu.be/m-WK-pOs5TA)
+- [May 3rd, 2018 - Intro to CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1mpcuGlP5yzvKmYYOFB0L9WWSFPUnhIQ1E2jT8ko6bqc/edit#slide=id.p3) [Recording](https://youtu.be/wb7aCAk1VFU)
+- [April 24th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1jGp_qyMA877k5hnThiJkS1Rr1e-tVb8L2CcDGmSbscU/edit#slide=id.g3783789093_0_269)
 - [April 12th, 2018 - Cross-cloud CI project intro with VMware](https://docs.google.com/presentation/d/1p9ho9RkHdeja11wq20S_ctPbgEa_pY3KaETzfW87_Os/edit#slide=id.g24450b0d21_0_222)
 - [April 11th, 2018 - Cross-cloud CI project intro with Spinnaker](https://docs.google.com/presentation/d/1cse3qkQgDWzF42I77X0Uo-00KID0Q4w3tZRpEw4zx-M/edit)
 - [April 10th, 2018 - Cross-cloud CI project demo with Cluster Lifecycle SIG](https://docs.google.com/presentation/d/1qpUXDgK3TzK2lJWVN7YJJWMb-Lr37g-RdT4tDYXoRn0/edit#slide=id.g24450b0d21_0_222)
