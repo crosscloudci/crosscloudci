@@ -1,4 +1,6 @@
-# Cross-cloud Continuous Integration
+![Cross-cloud Continuous Integration](https://raw.githubusercontent.com/crosscloudci/artwork/914eca80b90ad1325c9e2460a0410f4aaaaf3f69/crosscloudci/horizontal/color/crosscloudci-horizontal-color.png)
+
+
 
 ### Why Cross-cloud CI?
 
