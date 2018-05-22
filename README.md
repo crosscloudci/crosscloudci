@@ -40,10 +40,11 @@ The Cross-cloud CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
-- May 22nd, 2018 - CI-WG Status Update (4th Tuesday at 8am Pacific Time)
+- June 26th, 2018 - CI-WG Status Update (4th Tuesday at 8am Pacific Time)
 
 
 #### Past
+- [May 22nd, 2018 - CI-WG Status Update & Recap of Cross-cloud CI V1 Goals](https://docs.google.com/presentation/d/19CTi4_k0Cjf6KKFd21TBSxTBDeyiiDalcw08ELxeaqI/edit#slide=id.g3783789093_0_269)
 - [May 4th, 2018 - Deep Dive for CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1fpUdXYV230ciZPb-EHveKCkQUW2Fz63lsHjG4Lt1qlg/edit#slide=id.p3) & [Recording](https://youtu.be/m-WK-pOs5TA)
 - [May 3rd, 2018 - Intro to CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1mpcuGlP5yzvKmYYOFB0L9WWSFPUnhIQ1E2jT8ko6bqc/edit#slide=id.p3) & [Recording](https://youtu.be/wb7aCAk1VFU)
 - [April 24th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1jGp_qyMA877k5hnThiJkS1Rr1e-tVb8L2CcDGmSbscU/edit#slide=id.g3783789093_0_269)
@@ -90,7 +91,7 @@ The Cross-cloud CI project is composed of 3 main components:
 
 
 ### In the news:
-
+- [OpenStack Foundation Publishes White Paper on Containers Integration, Highlights Cross-Community Accomplishments](https://goo.gl/mkCdiL)
 - [Kubernetes 1.10 and Cross-Cloud CI Project Dashboard 1.3 Released, and Kubernetes Survey Announced](https://www.infoq.com/news/2018/04/kubernetes-1.10-cross-cloud)
 - [CNCF: Containerize Your Legacy!](https://www.lightreading.com/nfv/containers/cncf-containerize-your-legacy!/d/d-id/741954)
 - [CNCF Launches Cross-Cloud CI Project & Adds ONAP Networking Project to Dashboard Overview](https://www.cncf.io/blog/2018/03/27/cncf-launches-cross-cloud-ci-project-adds-onap-networking-project-to-dashboard-overview/)
