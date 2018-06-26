@@ -40,7 +40,9 @@ The Cross-cloud CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
-- July 24th, 2018 - CI-WG Status Update (4th Tuesday at 8am Pacific Time)
+- July 24th, 2018 - CI-WG Status Update (typically held on 4th Tuesday at 8am Pacific Time)
+- Vote for meeting time at https://doodle.com/poll/hxkxbfi9s4dcqvr6 
+- Voting ends on July 16th
 
 
 #### Past
