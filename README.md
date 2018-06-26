@@ -40,10 +40,11 @@ The Cross-cloud CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
-- June 26th, 2018 - CI-WG Status Update (4th Tuesday at 8am Pacific Time)
+- July 24th, 2018 - CI-WG Status Update (4th Tuesday at 8am Pacific Time)
 
 
 #### Past
+- [June 26th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1ugLK-QUv0yfb8qiCS41MW8__I58TrHYu4rzhck4CbpM/edit#slide=id.g3c7ed1ecb6_0_0)
 - [May 22nd, 2018 - CI-WG Status Update & Recap of Cross-cloud CI V1 Goals](https://docs.google.com/presentation/d/19CTi4_k0Cjf6KKFd21TBSxTBDeyiiDalcw08ELxeaqI/edit#slide=id.g3783789093_0_269)
 - [May 4th, 2018 - Deep Dive for CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1fpUdXYV230ciZPb-EHveKCkQUW2Fz63lsHjG4Lt1qlg/edit#slide=id.p3) & [Recording](https://youtu.be/m-WK-pOs5TA)
 - [May 3rd, 2018 - Intro to CNCF Cross-cloud CI project](https://docs.google.com/presentation/d/1mpcuGlP5yzvKmYYOFB0L9WWSFPUnhIQ1E2jT8ko6bqc/edit#slide=id.p3) & [Recording](https://youtu.be/wb7aCAk1VFU)
