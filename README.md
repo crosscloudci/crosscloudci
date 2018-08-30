@@ -95,6 +95,7 @@ The Cross-cloud CI project is composed of 3 main components:
 
 ### In the news:
 - [Google sets Kubernetes free with $9m in its pocket for expenses](https://www.theregister.co.uk/2018/08/30/google_kubernetes_project/)
+- [CNCF Adds VMware vSphere to Cross-Cloud CI Dashboard](https://blogs.vmware.com/cloudnative/2018/07/24/cncf-adds-vmware-vsphere-to-cross-cloud-ci-dashboard/)
 - [OpenStack Foundation Publishes White Paper on Containers Integration, Highlights Cross-Community Accomplishments](https://goo.gl/mkCdiL)
 - [Kubernetes 1.10 and Cross-Cloud CI Project Dashboard 1.3 Released, and Kubernetes Survey Announced](https://www.infoq.com/news/2018/04/kubernetes-1.10-cross-cloud)
 - [CNCF: Containerize Your Legacy!](https://www.lightreading.com/nfv/containers/cncf-containerize-your-legacy!/d/d-id/741954)
