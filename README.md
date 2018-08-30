@@ -101,4 +101,5 @@ The Cross-cloud CI project is composed of 3 main components:
 - [CNCF Launches Cross-Cloud CI Project & Adds ONAP Networking Project to Dashboard Overview](https://www.cncf.io/blog/2018/03/27/cncf-launches-cross-cloud-ci-project-adds-onap-networking-project-to-dashboard-overview/)
 - [ONAP, CNCF Come Together on Containers](https://www.lightreading.com/nfv/containers/onap-cncf-come-together-on-containers/d/d-id/741790)
 - [CNCF Unveils Continuous Integration Platform for Kubernetes](https://containerjournal.com/2018/03/27/cncf-unveils-continuous-integration-platform-kubernetes/)
+- [Kubernetes Ecosystem Grows as Cloud Native Computing Foundation Expands](https://www.serverwatch.com/server-news/kubernetes-ecosystem-grows-as-cloud-native-computing-foundation-expands.html)
 - [CNCF, Packet Provide Free Infrastructure for Cloud Developers](https://thenewstack.io/cncf-packet-team-provide-free-infrastructure-cloud-developers/)
