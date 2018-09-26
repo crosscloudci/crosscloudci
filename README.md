@@ -94,6 +94,8 @@ The Cross-cloud CI project is composed of 3 main components:
 
 
 ### In the news:
+- [The Linux Foundation Brings Network Automation and Cloud Native Communities Together as Network Functions evolve to CNFs](https://www.prnewswire.com/news-releases/the-linux-foundation-brings-network-automation-and-cloud-native-communities-together-as-network-functions-evolve-to-cnfs-300718287.html)
+- [Linux Foundation helps blend automation and cloud-native communities](https://www.fiercetelecom.com/telecom/linux-foundation-helps-blend-automation-and-cloud-native-communities)
 - [Google sets Kubernetes free with $9m in its pocket for expenses](https://www.theregister.co.uk/2018/08/30/google_kubernetes_project/)
 - [CNCF Adds VMware vSphere to Cross-Cloud CI Dashboard](https://blogs.vmware.com/cloudnative/2018/07/24/cncf-adds-vmware-vsphere-to-cross-cloud-ci-dashboard/)
 - [OpenStack Foundation Publishes White Paper on Containers Integration, Highlights Cross-Community Accomplishments](https://goo.gl/mkCdiL)
