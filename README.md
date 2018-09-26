@@ -46,7 +46,7 @@ The Cross-cloud CI project is composed of 3 main components:
 
 
 #### Past
-- [September 25th, 2018 - CI-WG Status Update] (https://docs.google.com/presentation/d/1wB922KAXg3Z8a-TNizoTm8WoDIVF7i9uIYtitmvwSSY/edit#slide=id.g3e44af8930_0_0)
+- [September 25th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1wB922KAXg3Z8a-TNizoTm8WoDIVF7i9uIYtitmvwSSY/edit#slide=id.g3e44af8930_0_0)
 - [August 28th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1n2vwXjKgaohCfEIp4li2SQqWPvYhvHSRLZJKEiqGvKk/edit?usp=sharing)
 - [July 24th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1i6_s3gnAv5nuPMbtKDs4wNuQfjY1ZCNHl9eWPXEdfjw/edit#slide=id.g3c7ed1ecb6_0_0)
 - [June 26th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1ugLK-QUv0yfb8qiCS41MW8__I58TrHYu4rzhck4CbpM/edit#slide=id.g3c7ed1ecb6_0_0)
