@@ -100,6 +100,7 @@ The Cross-cloud CI project is composed of 3 main components:
 
 
 ### In the news:
+- [Linux Foundation Networking & Cloud Native Computing Foundation Get Jiggy](https://www.lightreading.com/nfv/containers/linux-foundation-networking-and-cloud-native-computing-foundation-get-jiggy/d/d-id/746403)
 - [The Linux Foundation Brings Network Automation and Cloud Native Communities Together as Network Functions evolve to CNFs](https://www.prnewswire.com/news-releases/the-linux-foundation-brings-network-automation-and-cloud-native-communities-together-as-network-functions-evolve-to-cnfs-300718287.html)
 - [Linux Foundation helps blend automation and cloud-native communities](https://www.fiercetelecom.com/telecom/linux-foundation-helps-blend-automation-and-cloud-native-communities)
 - [Google sets Kubernetes free with $9m in its pocket for expenses](https://www.theregister.co.uk/2018/08/30/google_kubernetes_project/)
