@@ -40,15 +40,15 @@ The Cross-cloud CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
-- October 23rd, 2018 - CI-WG Status Update (4th Tuesday at 11am Pacific Time)
 - [November 14th, 2018 - Intro: CNCF Cross-cloud CI at KubeCon+CloudNativeCon China](https://kccncchina2018english.sched.com/event/FuL2/intro-cncf-cross-cloud-ci-w-watson-vulk-denver-williams-debian?iframe=no&w=&sidebar=yes&bg=no)
-- [November 15th, 2018 - Deep Dive: CNCF Cross-cloud CI at KubeCon+CloudNativeCon China](https://kccncchina2018english.sched.com/event/FuLR/deep-dive-cncf-cross-cloud-ci-w-watson-vulk-denver-williams-debian?iframe=no&w=&sidebar=yes&bg=no)
+- November 27th, 2018 - CI-WG Status Update (4th Tuesday at 11am Pacific Time)
 - [December 11th, 2018 - Intro: CNCF Cross-cloud CI at KubeCon+CloudNativeCon Seattle](https://kccna18.sched.com/event/Grci/intro-cncf-cross-cloud-ci-denver-williams-debian-taylor-carpenter-vulk-coop?iframe=no&w=100%&sidebar=yes&bg=no)
 - [December 12th, 2018 - Deep Dive: CNCF Cross-cloud CI at KubeCon+CloudNativeCon Seattle](https://kccna18.sched.com/event/Greb/deep-dive-cncf-cross-cloud-ci-denver-williams-debian-taylor-carpenter-vulk-voop?iframe=no&w=100%&sidebar=yes&bg=no) 
 
 
 
 #### Past
+- [October 23rd, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1OkFQvmPnfMZjNZtpe0irfax01llm2ziWUq-V9i2HUN8/edit#slide=id.g3e44af8930_0_0)
 - [September 25th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1wB922KAXg3Z8a-TNizoTm8WoDIVF7i9uIYtitmvwSSY/edit#slide=id.g3e44af8930_0_0)
 - [August 28th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1n2vwXjKgaohCfEIp4li2SQqWPvYhvHSRLZJKEiqGvKk/edit?usp=sharing)
 - [July 24th, 2018 - CI-WG Status Update](https://docs.google.com/presentation/d/1i6_s3gnAv5nuPMbtKDs4wNuQfjY1ZCNHl9eWPXEdfjw/edit#slide=id.g3c7ed1ecb6_0_0)
