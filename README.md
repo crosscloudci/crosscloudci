@@ -101,6 +101,7 @@ The Cross-cloud CI project is composed of 3 main components:
 
 
 ### In the news:
+- [CNCF + LFN collaborate on VNFs to CNFs](https://www.enterprisetimes.co.uk/2018/10/01/cncf-lfn-collaborate-on-vnfs-to-cnfs/)
 - [The Linux Foundation to Drive Shift to Container Network Functions](https://containerjournal.com/2018/10/05/the-linux-foundation-to-drive-shift-to-container-network-functions/)
 - [Linux Foundation Networking & Cloud Native Computing Foundation Get Jiggy](https://www.lightreading.com/nfv/containers/linux-foundation-networking-and-cloud-native-computing-foundation-get-jiggy/d/d-id/746403)
 - [The Linux Foundation Brings Network Automation and Cloud Native Communities Together as Network Functions evolve to CNFs](https://www.prnewswire.com/news-releases/the-linux-foundation-brings-network-automation-and-cloud-native-communities-together-as-network-functions-evolve-to-cnfs-300718287.html)
