@@ -1,34 +1,34 @@
-![Cross-cloud Continuous Integration](https://raw.githubusercontent.com/crosscloudci/artwork/914eca80b90ad1325c9e2460a0410f4aaaaf3f69/crosscloudci/horizontal/color/crosscloudci-horizontal-color.png)
+![CNCF Continuous Integration](https://raw.githubusercontent.com/crosscloudci/artwork/914eca80b90ad1325c9e2460a0410f4aaaaf3f69/crosscloudci/horizontal/color/crosscloudci-horizontal-color.png)
 
 
 
-### Why Cross-cloud CI?
+### Why CNCF.CI?
 
-The CNCF ecosystem is large, diverse and continues to grow. CNCF would like to ensure cross-project interoperability and cross-cloud deployments of all cloud native technologies and show the daily status of builds and deployments on a status dashboard. 
+The CNCF ecosystem is large, diverse and continues to grow. CNCF would like to ensure cross-project interoperability of all cloud native technologies and show the daily status of builds, deployments and end-to-end tests on a status dashboard. 
 
-### What is Cross-cloud CI?
+### What is CNCF.CI?
 
 
-The Cross-cloud CI project consists of a cross-cloud testing system, status repository server and a dashboard. The cross-cloud testing system has 3 components (build, cross-cloud, cross-project) that continually validate the interoperability of each CNCF project for any commit on stable and head across all supported cloud providers. The cross-cloud testing system can reuse existing artifacts from a project’s preferred CI system or generate new build artifacts. The status repository server collects the test results and the dashboard displays them.
+The CNCF.CI project consists of a cross-cloud testing system, status repository server and a dashboard. The cross-cloud testing system has 3 components (build, cross-cloud, cross-project) that continually validate the interoperability of each CNCF project for any commit on stable and head on a bare metal test environment. The cross-cloud testing system can reuse existing artifacts from a project’s preferred CI system or generate new build artifacts. The status repository server collects the test results and the dashboard displays them.
 
-The Cross-cloud CI project is composed of 3 main components:
+The CNCF.CI project is composed of 3 main components:
 
 1. Cross-cloud testing system:
 - Build Pipeline Stage per project (optional, can use project’s build artifacts)
   * Compiles binaries
   * Creates containers
 - Cloud Provisioning Pipeline Stage, aka [Cross-cloud](https://github.com/crosscloudci/cross-cloud) 
-  * Deploys K8s onto each cloud
+  * Deploys K8s onto the bare metal test environment
 - App Deployment Pipeline Stage, aka [Cross-project](https://github.com/crosscloudci/cross-project) 
   * Deploys containerized apps onto Kubernetes 
   * Runs upstream e2e tests for each project 
-  * Supplies results to the Cross-cloud dashboard
+  * Supplies results to the cncf.ci dashboard
 
 2. Status Repository Server
    * Stores the interoperability status of CNCF projects
 
-3. [Cross-cloud CI Dashboard](https://cncf.ci)
-   * Displays a high-level view of the interoperability status of CNCF projects for each supported cloud provider.
+3. [CNCF.CI Dashboard](https://cncf.ci)
+   * Displays a high-level view of the interoperability status of CNCF projects
   
 
 ### How to use the Cross-Cloud CI Project
@@ -41,9 +41,10 @@ The Cross-cloud CI project is composed of 3 main components:
 
 #### Upcoming
 
-- [February 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1DQRpAbHU96jfSX6JFYFi_eZewQ-AP8kjoeGcucu5FxI/edit#slide=id.g3e44af8930_0_0)
+- [March 26th, 2019 - CI-WG Status Update]
 
 #### Past
+- [February 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1DQRpAbHU96jfSX6JFYFi_eZewQ-AP8kjoeGcucu5FxI/edit#slide=id.g3e44af8930_0_0)
 - [January 22nd, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1NbRstXKJU7y7rOV60gV4Hg2TY2sM6l3rche73XpiRRk/edit#slide=id.g3e44af8930_0_0)
 - [December 11th, 2018 - Intro: CNCF Cross-cloud CI at KubeCon+CloudNativeCon Seattle](https://kccna18.sched.com/event/Grci)
 - [December 12th, 2018 - Deep Dive: CNCF Cross-cloud CI at KubeCon+CloudNativeCon Seattle](https://kccna18.sched.com/event/Greb) 
