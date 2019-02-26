@@ -1,7 +1,3 @@
-![CNCF Continuous Integration](https://raw.githubusercontent.com/crosscloudci/artwork/914eca80b90ad1325c9e2460a0410f4aaaaf3f69/crosscloudci/horizontal/color/crosscloudci-horizontal-color.png)
-
-
-
 ### Why CNCF.CI?
 
 The CNCF ecosystem is large, diverse and continues to grow. CNCF would like to ensure cross-project interoperability of all cloud native technologies and show the daily status of builds, deployments and end-to-end tests on a status dashboard. 
