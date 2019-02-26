@@ -37,7 +37,7 @@ The CNCF.CI project is composed of 3 main components:
 
 #### Upcoming
 
-- [March 26th, 2019 - CI-WG Status Update]
+- [March 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1eyRpwPDinQWtJmnrYeAPpHEZ0R1abOXYudwTb0LvmFY/edit#slide=id.g3e44af8930_0_0)
 
 #### Past
 - [February 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1DQRpAbHU96jfSX6JFYFi_eZewQ-AP8kjoeGcucu5FxI/edit#slide=id.g3e44af8930_0_0)
