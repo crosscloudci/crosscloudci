@@ -1,3 +1,5 @@
+https://github.com/crosscloudci/artwork/blob/master/cncfci/horizontal/color/cncfci-horizontal-color.png?raw=true
+
 ### Why CNCF.CI?
 
 The CNCF ecosystem is large, diverse and continues to grow. CNCF would like to ensure cross-project interoperability of all cloud native technologies and show the daily status of builds, deployments and end-to-end tests on a status dashboard. 
