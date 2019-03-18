@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/crosscloudci/artwork/master/cncfci/horizontal/color/cncfci-horizontal-color-small.png" width="150" height="62.5" />
+<img src="https://raw.githubusercontent.com/crosscloudci/artwork/master/cncfci/horizontal/color/cncfci-horizontal-color-small.png" width="300" height="125" />
 
 ### Why CNCF.CI?
 
