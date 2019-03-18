@@ -1,4 +1,4 @@
-![cncfci-horizontal-color-small](https://raw.githubusercontent.com/crosscloudci/artwork/master/cncfci/horizontal/color/cncfci-horizontal-color-small.png)
+<img src="https://raw.githubusercontent.com/crosscloudci/artwork/master/cncfci/horizontal/color/cncfci-horizontal-color-small.png" width="600" height="200" />)
 
 ### Why CNCF.CI?
 
