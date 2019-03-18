@@ -41,8 +41,8 @@ The CNCF.CI project is composed of 3 main components:
 
 - [March 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1eyRpwPDinQWtJmnrYeAPpHEZ0R1abOXYudwTb0LvmFY/edit#slide=id.g3e44af8930_0_0)
 - [April 23rd, 2019 - CI-WG Status Update]
-- [May 21st, 2019 at 11:05 - 11:40 - Intro: CNCF CI - Lucina Stricko & Denver Williams, Vulk Coop & CNCF](https://sched.co/MPhL)
-- [May 22nd, 2019 at 11:05 - 11:40 - Deep Dive: CNCF CI - Lucina Stricko & Denver Williams, Vulk Coop & CNCF](https://sched.co/MPj8)
+- [May 21st, 2019 at 11:05 - 11:40 - Intro: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPhL)
+- [May 22nd, 2019 at 11:05 - 11:40 - Deep Dive: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPj8)
 - [May 28th, 2019 - CI-WG Status Update]
 
 #### Past
