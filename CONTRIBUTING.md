@@ -2,6 +2,8 @@ Contributing to cncf.ci - CNCF CI Status Dashboard
 ---
 Welcome! We gladly accept contributions from CNCF Project Maintainers and encourage you to get involved!
 
+**This page will be updated incrementally as each new opportunity for collaboration becomes available.**
+
 ---
 About cncf.ci
 ---
@@ -9,8 +11,6 @@ About cncf.ci
 V2 of the CNCF CI status dashboard -- cncf.ci -- will provide a third party validation of builds, deployments and end-to-end testing for CNCF’s Graduated and Incubating projects. The CNCF CI status dashboard continually validates each CNCF project, for any commit on stable and head, running on Kubernetes clusters which are provisioned to a bare metal environment. The results of each testing stage are published to the cncf.ci status dashboard.
 
 Upcoming iterations of the CNCF CI status dashboard will focus on supporting a sustainable and scalable project ecosystem. To accelerate adding & maintaining projects on cncf.ci, the status dashboard will integrate with a project’s existing CI System and accept contributions from CNCF project maintainers. 
-
-**This page will be updated incrementally as each new opportunity for collaboration becomes available.**
 
 ---
 
