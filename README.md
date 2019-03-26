@@ -38,14 +38,13 @@ The CNCF.CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
-
-- [March 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1eyRpwPDinQWtJmnrYeAPpHEZ0R1abOXYudwTb0LvmFY/edit#slide=id.g3e44af8930_0_0)
-- [April 23rd, 2019 - CI-WG Status Update]
+- [April 23rd, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1SM-_lELDm_VHAaA7ufCQEacqVuf6UE-7-cNeK7_pTlw/edit#slide=id.g3e44af8930_0_0)
 - [May 21st, 2019 at 11:05 - 11:40 - Intro: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPhL)
 - [May 22nd, 2019 at 11:05 - 11:40 - Deep Dive: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPj8)
 - [May 28th, 2019 - CI-WG Status Update]
 
 #### Past
+- [March 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1eyRpwPDinQWtJmnrYeAPpHEZ0R1abOXYudwTb0LvmFY/edit#slide=id.g3e44af8930_0_0)
 - [February 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1DQRpAbHU96jfSX6JFYFi_eZewQ-AP8kjoeGcucu5FxI/edit#slide=id.g3e44af8930_0_0)
 - [January 22nd, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1NbRstXKJU7y7rOV60gV4Hg2TY2sM6l3rche73XpiRRk/edit#slide=id.g3e44af8930_0_0)
 - [December 11th, 2018 - Intro: CNCF Cross-cloud CI at KubeCon+CloudNativeCon Seattle](https://kccna18.sched.com/event/Grci)
