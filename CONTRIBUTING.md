@@ -1,5 +1,3 @@
-DRAFT: 
-
 Contributing to cncf.ci - CNCF CI Status Dashboard
 ---
 Welcome! We gladly accept contributions from CNCF Project Maintainers and encourage you to get involved!
