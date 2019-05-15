@@ -22,6 +22,6 @@ The roadmap below outlines new features that will be added to cncf.ci, and while
 | June 2019 | [v2.5](https://github.com/crosscloudci/crosscloudci/milestone/7) | Add Kubeadm/Kubespray to CI system, Update K8s Stable release | [CI Working group](https://github.com/cncf/wg-ci/blob/master/README.md#meeting-time) |
 | July 2019 | [v2.6](https://github.com/crosscloudci/crosscloudci/milestone/8) | Add support for external project contributions | [CI Working group](https://github.com/cncf/wg-ci/blob/master/README.md#meeting-time) |
 | August 2019 | [v2.7](https://github.com/crosscloudci/crosscloudci/milestone/9) | Add project-type headers and alpha sorting | [TBD] |
-| September 2019 | TBD | TBD: Adding/Maintaining projects | [ONS EU (Sept 23-25)](https://events.linuxfoundation.org/events/open-networking-summit-europe-2019/) |
-| October 2019 | TBD | TBD: Adding/Maintaining projects | [TBD] |
+| September 2019 | [v2.8](https://github.com/crosscloudci/crosscloudci/milestone/10) | TBD: Adding/Maintaining projects | [ONS EU (Sept 23-25)](https://events.linuxfoundation.org/events/open-networking-summit-europe-2019/) |
+| October 2019 | [v2.9](https://github.com/crosscloudci/crosscloudci/milestone/11) | TBD: Adding/Maintaining projects | [TBD] |
 | November 2019 | TBD | TBD: Intro and Deep Dive on cncf.ci | [KubeCon NA (Nov 18-21)](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) |
