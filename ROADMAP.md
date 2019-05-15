@@ -18,8 +18,8 @@ The roadmap below outlines new features that will be added to cncf.ci, and while
 | March 2019 | [v2.1.0](https://github.com/crosscloudci/crosscloudci/milestone/2) | Change how project details are added | [ONS NA (April 3-5)](https://events.linuxfoundation.org/events/open-networking-summit-north-america-2019/) |
 | April 2019 | [v2.2.0](https://github.com/crosscloudci/crosscloudci/milestone/3) | Add Test Environment Dropdown | [CI Working group](https://github.com/cncf/wg-ci/blob/master/README.md#meeting-time) |
 | April 2019 | [v2.3.0](https://github.com/crosscloudci/crosscloudci/milestone/4) | Add Arm support to K8s | [CI Working group](https://github.com/cncf/wg-ci/blob/master/README.md#meeting-time) |
-| May 2019 | [v2.4.0](https://github.com/crosscloudci/crosscloudci/milestone/5) | Intro & Deep Dive on cncf.ci, Add Arm support to CoreDNS, Prometheus, Fluentd, Envoy | [KubeCon EU (May 20-23)](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) |
-| June 2019 | [v2.5.0] | Add Kubeadm to CI system, Update K8s Stable release | [CI Working group](https://github.com/cncf/wg-ci/blob/master/README.md#meeting-time) |
+| May 2019 | [v2.4.0](https://github.com/crosscloudci/crosscloudci/milestone/5) | Add Arm support to CoreDNS, Prometheus, Fluentd, Envoy, Intro & Deep Dive on cncf.ci | [KubeCon EU (May 20-23)](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) |
+| June 2019 | [v2.5.0] | Add Kubeadm/Kubespray to CI system, Update K8s Stable release | [CI Working group](https://github.com/cncf/wg-ci/blob/master/README.md#meeting-time) |
 | July 2019 | [v2.6.0] | Add support for external project contributions | [CI Working group](https://github.com/cncf/wg-ci/blob/master/README.md#meeting-time) |
 | September 2019 | TBD | TBD: Maintaining projects | [ONS EU (Sept 23-25)](https://events.linuxfoundation.org/events/open-networking-summit-europe-2019/) |
 | November 2019 | TBD | TBD: Intro and Deep Dive on cncf.ci | [KubeCon NA (Nov 18-21)](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) |
