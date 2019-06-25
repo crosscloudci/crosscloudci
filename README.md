@@ -38,12 +38,13 @@ The CNCF.CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
+- [July 23rd, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1DG9fjfdwsebiX5Ar68_CwWvaPctsbeYUQXiLbaqnis8/edit#slide=id.g3e44af8930_0_0)
 
-- [May 21st, 2019 at 11:05 - 11:40 - Intro: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPhL)
-- [May 22nd, 2019 at 11:05 - 11:40 - Deep Dive: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPj8)
-- [TBD - KubeCon+CloudNativeCon EU F2F CI WG]
 
 #### Past
+- [June 25th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1e8elScrgvQKjsKZjiR_yN03LUUoeX2IbrHCUQAjLgYM/edit?userstoinvite=taylor@vulk.coop&ts=5d12346d&actionButton=1#slide=id.g3e44af8930_0_0)
+- [May 22nd, 2019 at 11:05 - 11:40 - Deep Dive: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPj8)
+- [May 21st, 2019 at 11:05 - 11:40 - Intro: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPhL)
 - [April 23rd, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1SM-_lELDm_VHAaA7ufCQEacqVuf6UE-7-cNeK7_pTlw/edit#slide=id.g3e44af8930_0_0)
 - [March 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1eyRpwPDinQWtJmnrYeAPpHEZ0R1abOXYudwTb0LvmFY/edit#slide=id.g3e44af8930_0_0)
 - [February 26th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1DQRpAbHU96jfSX6JFYFi_eZewQ-AP8kjoeGcucu5FxI/edit#slide=id.g3e44af8930_0_0)
