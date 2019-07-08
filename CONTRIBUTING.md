@@ -44,3 +44,27 @@ Updating existing CNCF projects on cncf.ci:
 1. Tag reviewers as CNCF.CI project maintainers: @denverwilliams, @lixuna, @taylor, @wwatson
 1. CNCF.CI project maintainer will review and merge pull request to `master` branch
 1. Updated content will display on cncf.ci CNCF CI Status Dashboard
+
+### Updating release details:
+
+**What are the "Release Details" on cncf.ci?** 
+-  Project's latest stable release
+-  Project's latest commit on master branch
+
+![Release Details Example](https://user-images.githubusercontent.com/11701267/60830121-2036f500-a17c-11e9-8e7e-5db2a443f3b3.png)
+
+**How can a CNCF Project Maintainer update Release Details?** 
+- Using CoreDNS as an example:
+
+1. Go to https://github.com/crosscloudci
+1. Open the `project-configuation` repo for the CNCF Project, ie. [coredns-configuration](https://github.com/crosscloudci/coredns-configuration)
+1. Open the `cncfci.yml` file on the `master` branch, ie. [cncfci.yml](https://github.com/crosscloudci/coredns-configuration/blob/master/cncfci.yml)
+1. Click the "edit" icon
+1. Create a new branch to make updates
+1. Update content, as needed: 
+   1.   stable_ref: "v1.5.2"
+   1.   head_ref: "master"
+1. Submit a pull request to `master` branch
+1. Tag reviewers as CNCF.CI project maintainers: @denverwilliams, @lixuna, @taylor, @wwatson
+1. CNCF.CI project maintainer will review and merge pull request to `master` branch
+1. Updated content will display on cncf.ci CNCF CI Status Dashboard
