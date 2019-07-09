@@ -41,7 +41,7 @@ Updating existing CNCF projects on cncf.ci:
    1. sub_title: (ie. Monitoring)
    1. project_url: (ie. "https://github.com/prometheus/prometheus")
 1. Submit a pull request to `master` branch
-1. Tag reviewers as CNCF.CI project maintainers: @denverwilliams, @lixuna, @taylor, @wwatson
+1. Tag reviewers as CNCF.CI project maintainers: @denverwilliams, @lixuna, @taylor, @wavell
 1. CNCF.CI project maintainer will review and merge pull request to `master` branch
 1. Updated content will display on cncf.ci CNCF CI Status Dashboard
 
