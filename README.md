@@ -38,10 +38,11 @@ The CNCF.CI project is composed of 3 main components:
 ### Meetings / Demos
 
 #### Upcoming
-- [July 23rd, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1DG9fjfdwsebiX5Ar68_CwWvaPctsbeYUQXiLbaqnis8/edit#slide=id.g3e44af8930_0_0)
-
+- [October 22nd, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1f890VUhJp-9a8FgTrcjrloD4UgOYQQdtT_8NAKMlcPc/edit#slide=id.g3e44af8930_0_0)
 
 #### Past
+- [August 27th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1FrcYTOtvyMnOWXIBHuwN6nQDkimMU6oJ69OxrslZG-c/edit#slide=id.g3e44af8930_0_0)
+- [July 23rd, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1DG9fjfdwsebiX5Ar68_CwWvaPctsbeYUQXiLbaqnis8/edit#slide=id.g3e44af8930_0_0)
 - [June 25th, 2019 - CI-WG Status Update](https://docs.google.com/presentation/d/1e8elScrgvQKjsKZjiR_yN03LUUoeX2IbrHCUQAjLgYM/edit?userstoinvite=taylor@vulk.coop&ts=5d12346d&actionButton=1#slide=id.g3e44af8930_0_0)
 - [May 22nd, 2019 at 11:05 - 11:40 - Deep Dive: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPj8)
 - [May 21st, 2019 at 11:05 - 11:40 - Intro: CNCF CI at KubeCon + CloudNativeCon EU 2019](https://sched.co/MPhL)
