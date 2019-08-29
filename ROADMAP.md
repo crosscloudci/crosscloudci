@@ -24,5 +24,5 @@ The roadmap below outlines new features that will be added to cncf.ci, and while
 | August 2019 | [v2.6](https://github.com/crosscloudci/crosscloudci/labels/v2.6) | Add Linkerd 2.x, Create an external Plugin for Travis CI, CI Refactor | [CI Working group](https://github.com/cncf/wg-ci/blob/master/README.md#meeting-time) |
 | September 2019 | [v3.0](https://github.com/crosscloudci/crosscloudci/labels/v3.0) | Add Kubespray to CI system, Update K8s Stable release, Add radio button controls | [ONS EU (Sept 23-25)](https://events.linuxfoundation.org/events/open-networking-summit-europe-2019/) |
 | October 2019 | [v3.1](https://github.com/crosscloudci/crosscloudci/milestone/11) | Add external build artifacts, Add stateful URLs, Add kind | [TBD] |
-| November 2019 | [v3.2] | Add Jaeger, Vitess, NATS (Travis CI), Create Circle CI plugin | [KubeCon NA (Nov 18-21)](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) |
-| December 2019 | [v3.3] | Add Notary (Circle CI) | [TBD] |
+| November 2019 | v3.2 | Add Jaeger, Vitess, NATS (Travis CI), Create Circle CI plugin | [KubeCon NA (Nov 18-21)](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) |
+| December 2019 | v3.3 | Add Notary (Circle CI), Collaborate on end-to-end tests | [TBD] |
