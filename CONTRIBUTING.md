@@ -17,7 +17,15 @@ Upcoming iterations of the CNCF CI status dashboard will focus on supporting a s
 Updating existing CNCF projects on cncf.ci: 
 ---
 
-### Updating project details:
+- [Project Details](https://github.com/crosscloudci/crosscloudci/blob/master/CONTRIBUTING.md#updating-project-details)
+- [Release Details](https://github.com/crosscloudci/crosscloudci/blob/master/CONTRIBUTING.md#updating-release-details)
+- [Build Status Results] - TBD
+- [Deploy Status Results] - TBD
+- [End-to-End Test Status Results] - TBD
+
+
+
+### Updating Project Details:
 
 **What are the "Project Details" on cncf.ci?** 
 -  Project's logo in svg format
@@ -45,7 +53,7 @@ Updating existing CNCF projects on cncf.ci:
 1. CNCF.CI project maintainer will review and merge pull request to `master` branch
 1. Updated content will display on cncf.ci CNCF CI Status Dashboard
 
-### Updating release details:
+### Updating Release Details:
 
 **What are the "Release Details" on cncf.ci?** 
 -  Project's latest stable release
@@ -68,3 +76,16 @@ Updating existing CNCF projects on cncf.ci:
 1. Tag reviewers as CNCF.CI project maintainers: @denverwilliams, @lixuna, @taylor, @wwatson
 1. CNCF.CI project maintainer will review and merge pull request to `master` branch
 1. Updated content will display on cncf.ci CNCF CI Status Dashboard
+
+### Updating Build Status Results: TBD
+
+**What are the "Build Status Results" on cncf.ci?** 
+-  TBD
+
+**How can a CNCF Project Maintainer update Build Status Results from Travis CI?** 
+- TBD
+
+**How can a CNCF Project Maintainer update Build Status Results from Circle CI?**
+- TBD
+
+
