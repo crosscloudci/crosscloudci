@@ -19,7 +19,7 @@ Updating existing CNCF projects on cncf.ci:
 
 - [Project Details](https://github.com/crosscloudci/crosscloudci/blob/master/CONTRIBUTING.md#updating-project-details)
 - [Release Details](https://github.com/crosscloudci/crosscloudci/blob/master/CONTRIBUTING.md#updating-release-details)
-- [Build Status Results] - TBD
+- [Build Status Results](https://github.com/crosscloudci/crosscloudci/blob/master/CONTRIBUTING.md#updating-build-status-results-tbd)
 - [Deploy Status Results] - TBD
 - [End-to-End Test Status Results] - TBD
 
