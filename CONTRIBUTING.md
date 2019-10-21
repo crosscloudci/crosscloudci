@@ -80,6 +80,8 @@ Updating existing CNCF projects on cncf.ci:
 ### Updating Build Status Results: 
 
 **What are the "Build Status Results" on cncf.ci?** 
+![Build Status](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/buildbadges.png)
+
 -  The build status results are the statuses that show on the dashboard (e.g. success, failure).  
 
 **How can a CNCF Project Maintainer update Build Status Results from Travis CI?** 
