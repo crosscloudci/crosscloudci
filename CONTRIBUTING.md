@@ -92,7 +92,7 @@ Updating existing CNCF projects on cncf.ci:
 1. Create a ci_system element
    1. The **ci_system** element is an array which represents a list of all of the ci_systems (e.g. multiple Travis endpoints, a Travis and a Jenkins endpoint, etc) for a project
    1. **ci_system_type** is the type of ci system.  Use "travis-ci" for Travis
-   1. **ci_project_url** is the url for the project.
+   1. **ci_project_url** is the gitlab url for the project.
    1. **ci_project_name** is the organization and project name of the project e.g. crosscloudci/testproj
    1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64   
 
