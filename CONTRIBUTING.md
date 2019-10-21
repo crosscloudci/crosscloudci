@@ -85,7 +85,7 @@ Updating existing CNCF projects on cncf.ci:
 -  The build status results are the statuses that show on the dashboard (e.g. success, failure).  
 
 **How can a CNCF Project Maintainer update Build Status Results from Travis CI?** 
-- The dashboard can now use a project's internal ci system in order to capture the build status of a build.  The dashboard must be configured using the cncfci.yml and gitlab-ci.yml for the project.
+- The dashboard can now use a project's internal ci system in order to capture the build status of a build.  The dashboard must be configured using the cncfci.yml and gitlab-ci.yml for the project, located in the project's <project>-configuration folder.
 
 - Using the Test Project [cncfci.yml](https://github.com/crosscloudci/testproj-configuration/blob/master/cncfci.yml) as an example:
 
