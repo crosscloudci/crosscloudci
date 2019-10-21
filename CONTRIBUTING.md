@@ -80,7 +80,7 @@ Updating existing CNCF projects on cncf.ci:
 ### Updating Build Status Results: 
 
 **What are the "Build Status Results" on cncf.ci?** 
-![Build Status](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/buildbadges.png)
+![Build Status](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/rowbuildbadge.png)
 
 -  The build status results are the statuses that show on the dashboard (e.g. success, failure).  
 
