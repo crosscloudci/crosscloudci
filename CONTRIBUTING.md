@@ -84,7 +84,15 @@ Updating existing CNCF projects on cncf.ci:
 
 **How can a CNCF Project Maintainer update Build Status Results from Travis CI?** 
 - Using the Test Project as an example:
-![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectgitlabyml.png "Prometheus YML")
+
+![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectcncfciyml.png "Test Project cncfci.yml YML")
+1. Create a ci_system element
+   1. The **ci_system** element is an array which represents a list of all of your ci_systems (e.g. multiple Travis endpoints, a Travis and a Jenkins endpoint, etc)
+   1. **ci_system_type** is the type of ci system.  Use "travis-ci" for Travis
+   1. **ci_project_url** is the url for the project.
+   1. **ci_project_name** is the organization and project name of your project e.g. crosscloudci/testproj
+   1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64 
+![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectgitlabyml.png "Test Project gitlab-ci.yml YML")
 
 **How can a CNCF Project Maintainer update Build Status Results from Circle CI?**
 - TBD
