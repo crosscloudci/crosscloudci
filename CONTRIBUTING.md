@@ -85,7 +85,7 @@ Updating existing CNCF projects on cncf.ci:
 **How can a CNCF Project Maintainer update Build Status Results from Travis CI?** 
 - The dashboard can now use a project's internal ci system in order to capture the build status of a build.  The dashboard must be configured using the cncfci.yml and gitlab-ci.yml for the project.
 
-- Using the Test Project cncfci.yml as an example:
+- Using the Test Project [cncfci.yml](https://github.com/crosscloudci/testproj-configuration/blob/master/cncfci.yml) as an example:
 
 ![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectcncfciyml.png "Test Project cncfci.yml YML")
 
@@ -96,12 +96,12 @@ Updating existing CNCF projects on cncf.ci:
    1. **ci_project_name** is the organization and project name of the project e.g. crosscloudci/testproj
    1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64   
 
-- Using the Test project gitlab-ci.yml as an example:
+- Using the Test project [gitlab-ci.yml](https://github.com/crosscloudci/testproj-configuration/blob/master/.gitlab-ci.yml) as an example:
 
 ![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectgitlabyml.png "Test Project gitlab-ci.yml YML")
 
 1. Modify your projects gitlab-ci.yml in your project's configuration repository
-   1. Change the project name (i.e. change testproject) to be your project name
+   1. Change the **project name** (i.e. change testproject) to be your project name
    
 **How can a CNCF Project Maintainer update Build Status Results from Circle CI?**
 - The Circle CI integration is planned for November.  Only Travis CI is available at this time.
