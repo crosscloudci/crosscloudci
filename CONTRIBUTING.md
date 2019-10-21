@@ -77,7 +77,7 @@ Updating existing CNCF projects on cncf.ci:
 1. CNCF.CI project maintainer will review and merge pull request to `master` branch
 1. Updated content will display on cncf.ci CNCF CI Status Dashboard
 
-### Updating Build Status Results: TBD
+### Updating Build Status Results: 
 
 **What are the "Build Status Results" on cncf.ci?** 
 -  The build status results are the statuses that show on the dashboard (e.g. success, failure).  
