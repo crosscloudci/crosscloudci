@@ -83,7 +83,8 @@ Updating existing CNCF projects on cncf.ci:
 -  TBD
 
 **How can a CNCF Project Maintainer update Build Status Results from Travis CI?** 
-- TBD
+- Using the Test Project as an example:
+![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectgitlabyml.png "Prometheus YML")
 
 **How can a CNCF Project Maintainer update Build Status Results from Circle CI?**
 - TBD
