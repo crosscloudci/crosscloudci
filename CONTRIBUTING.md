@@ -104,6 +104,6 @@ Updating existing CNCF projects on cncf.ci:
    1. Change the project name (i.e. change testproject) to be your project name
    
 **How can a CNCF Project Maintainer update Build Status Results from Circle CI?**
-- TBD
+- The Circle CI integration is planned for November.  Only Travis CI is available at this time.
 
 
