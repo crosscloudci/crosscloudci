@@ -94,11 +94,11 @@ Updating existing CNCF projects on cncf.ci:
    1. **ci_system_type** is the type of ci system.  Use "travis-ci" for Travis
    1. **ci_project_url** is the url for the project.
    1. **ci_project_name** is the organization and project name of the project e.g. crosscloudci/testproj
-   1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64 
-   
-![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectgitlabyml.png "Test Project gitlab-ci.yml YML")
+   1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64   
 
 - Using the Test project gitlab-ci.yml as an example:
+
+![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectgitlabyml.png "Test Project gitlab-ci.yml YML")
 
 1. Modify your projects gitlab-ci.yml in your project's configuration repository
    1. Change the project name (i.e. change testproject) to be your project name
