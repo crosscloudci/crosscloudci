@@ -44,10 +44,10 @@ Updating existing CNCF projects on cncf.ci:
 1. Create a new branch to make updates
 1. Update content, as needed: 
 ![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/prometheusyml.png "Prometheus YML")
-   1. logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/prometheus/icon/color/prometheus-icon-color.svg?sanitize=true" (for svg format, append ?sanitize=true to url)
-   1. display_name: (ie. Prometheus)
-   1. sub_title: (ie. Monitoring)
-   1. project_url: (ie. "https://github.com/prometheus/prometheus")
+   1. **logo_url**: "https://raw.githubusercontent.com/cncf/artwork/master/prometheus/icon/color/prometheus-icon-color.svg?sanitize=true" (for svg format, append ?sanitize=true to url)
+   1. **display_name**: (ie. Prometheus)
+   1. **sub_title**: (ie. Monitoring)
+   1. **project_url**: (ie. "https://github.com/prometheus/prometheus")
 1. Submit a pull request to `master` branch
 1. Tag reviewers as CNCF.CI project maintainers: @denverwilliams, @lixuna, @taylor, @wavell
 1. CNCF.CI project maintainer will review and merge pull request to `master` branch
@@ -70,8 +70,8 @@ Updating existing CNCF projects on cncf.ci:
 1. Click the "edit" icon
 1. Create a new branch to make updates
 1. Update content, as needed: 
-   1.   stable_ref: "v1.5.2"
-   1.   head_ref: "master"
+   1.   **stable_ref**: "v1.5.2"
+   1.   **head_ref**: "master"
 1. Submit a pull request to `master` branch
 1. Tag reviewers as CNCF.CI project maintainers: @denverwilliams, @lixuna, @taylor, @wwatson
 1. CNCF.CI project maintainer will review and merge pull request to `master` branch
