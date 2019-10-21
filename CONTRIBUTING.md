@@ -80,24 +80,29 @@ Updating existing CNCF projects on cncf.ci:
 ### Updating Build Status Results: TBD
 
 **What are the "Build Status Results" on cncf.ci?** 
--  TBD
+-  The build status results are the statuses that show on the dashboard (e.g. success, failure).  
 
 **How can a CNCF Project Maintainer update Build Status Results from Travis CI?** 
-- Using the Test Project as an example:
+- The dashboard can now use a project's internal ci system in order to capture the build status of a build.  The dashboard must be configured using the cncfci.yml and gitlab-ci.yml for the project.
+
+- Using the Test Project cncfci.yml as an example:
 
 ![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectcncfciyml.png "Test Project cncfci.yml YML")
 
 1. Create a ci_system element
-   1. The **ci_system** element is an array which represents a list of all of your ci_systems (e.g. multiple Travis endpoints, a Travis and a Jenkins endpoint, etc)
+   1. The **ci_system** element is an array which represents a list of all of the ci_systems (e.g. multiple Travis endpoints, a Travis and a Jenkins endpoint, etc) for a project
    1. **ci_system_type** is the type of ci system.  Use "travis-ci" for Travis
    1. **ci_project_url** is the url for the project.
-   1. **ci_project_name** is the organization and project name of your project e.g. crosscloudci/testproj
+   1. **ci_project_name** is the organization and project name of the project e.g. crosscloudci/testproj
    1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64 
    
 ![alt text](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectgitlabyml.png "Test Project gitlab-ci.yml YML")
 
+- Using the Test project gitlab-ci.yml as an example:
+
 1. Modify your projects gitlab-ci.yml in your project's configuration repository
-   1. 
+   1. Change the project name (i.e. change testproject) to be your project name
+   
 **How can a CNCF Project Maintainer update Build Status Results from Circle CI?**
 - TBD
 
