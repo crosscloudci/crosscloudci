@@ -48,7 +48,7 @@ In Gitlab you need to complete the following steps.
         - Pipeline trigger
 	  - add trigger
 	  - make sure a token is created
-	- Pipelines 
+	  - Pipelines 
             - Custom ci config path
 	    	- e.g. https://raw.githubusercontent.com/crosscloudci/envoy-configuration/master/.gitlab-ci.yml
             - Add cloud variable
