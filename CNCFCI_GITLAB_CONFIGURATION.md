@@ -3,7 +3,7 @@
 The goal is to call the new project's ci scripts from gitlabs ci 
 configuration file
 
-## Gitlab Yml Configuration
+- Gitlab Project Configuration
 1. Make crosscloudci/**projectname**-configuration project -- copy an existing **projectname**-configuration project (see testproj-configuration example: https://github.com/crosscloudci/testproj-configuration) 
 
 ![test project configuration](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testproj-configuration.png "testproj configuration")
