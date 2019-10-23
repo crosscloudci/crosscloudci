@@ -3,20 +3,20 @@
 The goal is to call the new project's ci scripts from gitlabs ci 
 configuration file
 
-- Gitlab Project Configuration
+# Gitlab Project Configuration #
 1. Make crosscloudci/**projectname**-configuration project -- copy an existing **projectname**-configuration project (see testproj-configuration example: https://github.com/crosscloudci/testproj-configuration) 
 
 ![test project configuration](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testproj-configuration.png "testproj configuration")
 
-1. Edit the cncfci.yml (see testproj-configuration: https://github.com/crosscloudci/testproj-configuration/blob/master/cncfci.yml which is for the testproj example: https://github.com/crosscloudci/testproj)
+2. Edit the cncfci.yml (see testproj-configuration: https://github.com/crosscloudci/testproj-configuration/blob/master/cncfci.yml which is for the testproj example: https://github.com/crosscloudci/testproj)
 
 ![Test Project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectcncfciyml.png "Test Project cncfci.yml YML")
 
-1. Edit .gitlab-ci.yml to include curl commands and scripts for getting build status, deploys, and tests e.g. envoy-configuration (see https://github.com/crosscloudci/testproj-configuration/blob/master/.gitlab-ci.yml)
+3. Edit .gitlab-ci.yml to include curl commands and scripts for getting build status, deploys, and tests e.g. envoy-configuration (see https://github.com/crosscloudci/testproj-configuration/blob/master/.gitlab-ci.yml)
 
 ![Test Project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectgitlabyml.png "Test Project gitlab-ci.yml YML")
 
-1. Optional: write a ci proxy plugin for your ci tool and submit a pull request (see https://github.com/crosscloudci/ex_ci_proxy/blob/master/README.md)
+4. Optional: write a ci proxy plugin for your ci tool and submit a pull request (see https://github.com/crosscloudci/ex_ci_proxy/blob/master/README.md)
 
 ## Gitlab Setup
 ### GitLab Pipeline Setup
