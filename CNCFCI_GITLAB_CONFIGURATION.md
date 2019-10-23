@@ -25,7 +25,7 @@ configuration file
 In Gitlab you need to complete the following steps.
  1. Create a new group
  
- ![git add group](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-group.png gitlab add group)
+ ![git add group](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-group.png "gitlab add group")
  
  2. Create a new project
  3. Set up mirroring (*steps and menu items in gitlab*)
