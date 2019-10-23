@@ -47,8 +47,6 @@ In Gitlab you need to complete the following steps.
     - Settings
         - Pipeline trigger
 	  - add trigger
-	  - copy token
-	  - put in environment.rb
 	- Pipelines 
             - Custom ci config path
                 - e.g. https://raw.githubusercontent.com/crosscloudci/envoy-configuration/master/.gitlab-ci.yml
@@ -82,8 +80,14 @@ In Gitlab you need to complete the following steps.
         - Select master
         - Select stable (*e.g. v1.7.0*)
         - Both should be running
+
 ## Trigger Client
-1. add the new project into the enviroment.rb
+1. Add the new project into the enviroment.rb
+1. Get token from trigger (*steps and menu items in gitlab*)
+    - Settings
+        - Pipeline trigger
+	  - copy token
+	  - put in .env for trigger client
 
 ## Optional CI Setup (legacy manual build -- not using ci-proxy )
 
