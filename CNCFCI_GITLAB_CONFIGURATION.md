@@ -59,10 +59,10 @@ In Gitlab you need to complete the following steps.
 		- TOKEN
 		  - Get token from earlier pipeline trigger step
 5. Enable runners (*steps and menu items in gitlab*)
-    - Admin
-        - Runners
-            - Select token
-                - Select envoy
+    - settings
+        - ci/cd
+        - Runner settings
+            - Enable all runners for this project
 6. Add to dashboard yml (*steps and menu items in gitlab*)
     - Cncf configuration
         - Integration branch
