@@ -47,6 +47,7 @@ In Gitlab you need to complete the following steps.
     - Settings
         - Pipeline trigger
 	  - add trigger
+	  - make sure a token is created
 	- Pipelines 
             - Custom ci config path
                 - e.g. https://raw.githubusercontent.com/crosscloudci/envoy-configuration/master/.gitlab-ci.yml
@@ -56,7 +57,7 @@ In Gitlab you need to complete the following steps.
 		- ARCH
 		- GEMFURY
 		- TOKEN
-		  - token from earlier pipeline trigger step
+		  - Get token from earlier pipeline trigger step
 5. Enable runners (*steps and menu items in gitlab*)
     - Admin
         - Runners
