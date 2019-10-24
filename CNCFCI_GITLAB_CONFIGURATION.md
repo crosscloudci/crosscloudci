@@ -17,42 +17,44 @@
 
 ## Gitlab Setup
 ### GitLab Pipeline Setup
-***You need to have admin permissions to do this***
+***You need to have admin permissions to do this.***
+***Also, if this process is done on the production gitlab server, you'll need to rsync the changes to your other servers or implement the same changes manually in each environment.***
 
 In Gitlab you need to complete the following steps.
  1. Create a new group
  
- ![git add group](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-group.png "gitlab add group")
+![git add group](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-group.png "gitlab add group")
  
- ![git add group](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-group-new.png "gitlab add group")
+![git add group](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-group-new.png "gitlab add group")
+ 
  2. Create a new project
  
-  ![git add project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-project.png "gitlab add project")
+![git add project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-project.png "gitlab add project")
 
-  ![git add project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-project-new.png "gitlab add project")
+![git add project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-project-new.png "gitlab add project")
 
  3. Set up mirroring (*steps and menu items in gitlab*)
    - Select admin
    
-   ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-project-admin.png "gitlab select admin")
+![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-project-admin.png "gitlab select admin")
  
    - Botuser needs to be in user permissions
     
-       ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-manage-access.png "gitlab select admin")
+![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-manage-access.png "gitlab select admin")
     
      - Add bot user as member (as the master role)
      
-       ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-bot-user.png "gitlab select admin")
+![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-bot-user.png "gitlab select admin")
 
    - Impersonate bot user
      - Admin
        - Search for bot, click on bot user
 
-         ![git search bot user](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-search-bot-user.png "gitlab search bot user")
+![git search bot user](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-search-bot-user.png "gitlab search bot user")
 	    
        - Impersonate bot user
 	    
-         ![git impersonate bot user](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-impersonate-bot.png "gitlab impersonate bot user")	    
+![git impersonate bot user](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-impersonate-bot.png "gitlab impersonate bot user")	    
 	    
    - Settings
      - Repository
@@ -64,55 +66,77 @@ In Gitlab you need to complete the following steps.
    - Select the project Project
         - You should see that the code is pulled down
         
-        ![git check mirroring ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-check-project-mirror.png "gitlab check mirroring")
+![git check mirroring ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-check-project-mirror.png "gitlab check mirroring")
 
         - Stop impersonating the bot user
 4. Set up project variables (*steps and menu items in gitlab*)
     - Settings
         - Pipeline trigger
-	  - add trigger
-	  - make sure a token is created
-          - Pipelines 
-            - Custom ci config path
-	            - e.g. https://raw.githubusercontent.com/crosscloudci/envoy-configuration/master/.gitlab-ci.yml
-            - Add cloud variable
-		- CLOUD
-                  - e.g.  aws
-		- ARCH
-		- GEMFURY
-		- TOKEN
-		  - Get token from earlier pipeline trigger step
+
+![git add trigger ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-pipeline-trigger.png "gitlab add trigger")
+
+    - add trigger
+    - make sure a token is created
+      - Pipelines 
+        - Custom ci config path
+
+![git custom path ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-custom-gitlabciyml.png "gitlab custom path")
+	    
+          - e.g. https://raw.githubusercontent.com/crosscloudci/envoy-configuration/master/.gitlab-ci.yml
+        - Add cloud variable (you only need to add the CLOUD and ARCH variables)
+
+![git add trigger ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-secrets.png "gitlab add trigger")
+
+          - CLOUD
+            - e.g.  aws
+          - ARCH
+            - e.g. AMD64
 5. Enable runners (*steps and menu items in gitlab*)
+
+![git enable runners ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-enable-runners.png "gitlab enable runners")
+
     - settings
-        - ci/cd
+      - ci/cd
         - Runner settings
-            - Enable all runners for this project
-6. Add to dashboard yml (*steps and menu items in gitlab*)
+          - Enable all runners for this project
+6. Add the project to global configuration yml (e.g. https://github.com/crosscloudci/cncf-configuration/blob/master/cross-cloud.yml)
+
+![cross cloud global config](https://github.com/crosscloudci/crosscloudci/blob/master/add-project-cross-cloud-yml.png "cross cloud global config")
+
     - Cncf configuration
-        - Integration branch
-            - Add to cross-cloud.yml
-            - Duplicate a project
-            - Find logo image e.g. https://d33wubrfki0l68.cloudfront.net/77bb2db951dc11d54851e79e0ca09e3a02b276fa/9c0b7/img/envoy-logo.svg
-                - Add to cncf artwork repo
-                - Link to cross cloud artwork repo
-            - Update the project names e.g. to envoy 
-            - Charts are the repo that we get the helm charts from
-            - Change timeout for how long your build takes
+      - Integration branch
+        - Add to cross-cloud.yml
+          - Duplicate a project
+          - Find logo image e.g. https://d33wubrfki0l68.cloudfront.net/77bb2db951dc11d54851e79e0ca09e3a02b276fa/9c0b7/img/envoy-logo.svg
+          - Add to cncf artwork repo
+            - Link to cross cloud artwork repo
+              - Update the project names e.g. to envoy 
+              - Charts are the repo that we get the helm charts from
+              - Change timeout for how long your build takes
 7. Review pipelines
-	- Pipelines
-        - manually add new to the url (***this is a workaround***)
-            - e.g. https://gitlab.cidev.cncf.ci/envoy/envoy/pipelines/new
+
+![new pipeline](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-new-pipeline.png "new pipeline")
+
+  - Pipelines
+    - manually add new to the url (***this is a workaround***)
+      - e.g. https://gitlab.cidev.cncf.ci/envoy/envoy/pipelines/new
         - Select master
         - Select stable (*e.g. v1.7.0*)
         - Both should be running
 
 ## Trigger Client
 1. Add the new project into the enviroment.rb
+
+![enviroment.rb](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-project-enviromentrb.png " environment.rb")
+
 1. Get token from trigger (*steps and menu items in gitlab*)
-    - Settings
-        - Pipeline trigger
-	  - copy token
-	  - put in .env for trigger client
+
+![.env](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-env.png " .env")
+
+  - Settings
+    - Pipeline trigger
+      - copy token
+    - Put in .env for trigger client
 
 ## Optional CI Setup (legacy manual build -- not using ci-proxy )
 
