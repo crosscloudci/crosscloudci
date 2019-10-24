@@ -62,7 +62,7 @@ In Gitlab you need to complete the following steps.
 ![git repository mirroring ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-repository-mirroring.png "gitlab repository mirroring")
 	    
    - Select the project Project
-        - Your should see that the code is pulled down
+        - You should see that the code is pulled down
         
         ![git check mirroring ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-check-project-mirror.png "gitlab check mirroring")
 
