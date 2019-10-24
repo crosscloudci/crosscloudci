@@ -32,13 +32,28 @@ In Gitlab you need to complete the following steps.
   ![git add project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-project-new.png "gitlab add project")
 
  3. Set up mirroring (*steps and menu items in gitlab*)
+   - Select admin
+   
+   ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-project-admin.png "gitlab select admin")
+ 
     - Botuser needs to be in user permissions
-        - Add member
-        - master
+    
+       ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-manage-access.png "gitlab select admin")
+    
+        - Add bot user as member (as the master role)
+	
+	![git select admin](https://github.com/crosscloudci/crosscloudci/blob/master/gitlab-add-bot-user.png "gitlab select admin")
+
     - Impersonate bot user
         - Admin
             - Search for bot, click on bot user
-            - Impersonate
+
+         ![git search bot user](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-search-bot-user.png "gitlab search bot user")
+	    
+            - Impersonate bot user
+	    
+         ![git impersonate bot user](https://github.com/crosscloudci/crosscloudci/blob/master/gitlab-impersonate-bot.png "gitlab impersonate bot user")	    
+	    
     - Settings
         - Repository
             - Pull from remote repository
