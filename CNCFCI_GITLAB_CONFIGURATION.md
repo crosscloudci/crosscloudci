@@ -36,21 +36,21 @@ In Gitlab you need to complete the following steps.
    
    ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-project-admin.png "gitlab select admin")
  
-    - Botuser needs to be in user permissions
+   - Botuser needs to be in user permissions
     
        ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-manage-access.png "gitlab select admin")
     
-        - Add bot user as member (as the master role)
+     - Add bot user as member (as the master role)
 	
 	![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-bot-user.png "gitlab select admin")
 
-    - Impersonate bot user
-        - Admin
-            - Search for bot, click on bot user
+   - Impersonate bot user
+     - Admin
+       - Search for bot, click on bot user
 
          ![git search bot user](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-search-bot-user.png "gitlab search bot user")
 	    
-            - Impersonate bot user
+       - Impersonate bot user
 	    
          ![git impersonate bot user](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-impersonate-bot.png "gitlab impersonate bot user")	    
 	    
