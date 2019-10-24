@@ -41,8 +41,8 @@ In Gitlab you need to complete the following steps.
        ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-manage-access.png "gitlab select admin")
     
      - Add bot user as member (as the master role)
-	
-	![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-bot-user.png "gitlab select admin")
+     
+       ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-bot-user.png "gitlab select admin")
 
    - Impersonate bot user
      - Admin
