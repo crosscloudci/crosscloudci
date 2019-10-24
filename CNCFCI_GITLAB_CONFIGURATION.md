@@ -1,7 +1,4 @@
-# Cross Cloud CI New Project Setup
-
-The goal is to call the new project's ci scripts from gitlabs ci 
-configuration file
+# Cross Cloud CI New Project Gitlab Configuration Setup
 
 # Gitlab Project Configuration #
 1. Make crosscloudci/**projectname**-configuration project -- copy an existing **projectname**-configuration project (see testproj-configuration example: https://github.com/crosscloudci/testproj-configuration) 
@@ -27,7 +24,13 @@ In Gitlab you need to complete the following steps.
  
  ![git add group](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-group.png "gitlab add group")
  
+ ![git add group](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-group-new.png "gitlab add group")
  2. Create a new project
+ 
+  ![git add project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-project.png "gitlab add project")
+
+  ![git add project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-project-new.png "gitlab add project")
+
  3. Set up mirroring (*steps and menu items in gitlab*)
     - Botuser needs to be in user permissions
         - Add member
