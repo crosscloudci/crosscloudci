@@ -54,10 +54,10 @@ In Gitlab you need to complete the following steps.
 	    
          ![git impersonate bot user](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-impersonate-bot.png "gitlab impersonate bot user")	    
 	    
-    - Settings
-        - Repository
-            - Pull from remote repository
-            - Select mirror, add https repo address, select bot user
+   - Settings
+     - Repository
+       - Pull from remote repository
+       - Select mirror, add https repo address, select bot user
 
 ![git repository mirroring ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-repository-mirroring.png "gitlab repository mirroring")
 	    
