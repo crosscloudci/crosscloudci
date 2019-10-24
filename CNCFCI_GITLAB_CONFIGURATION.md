@@ -61,9 +61,12 @@ In Gitlab you need to complete the following steps.
 
 ![git repository mirroring ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-repository-mirroring.png "gitlab repository mirroring")
 	    
-    - Project
-        - Should see that the code is pulled down
-    - Stop impersonating
+   - Select the project Project
+        - Your should see that the code is pulled down
+        
+        ![git check mirroring ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-check-project-mirror.png "gitlab check mirroring")
+
+        - Stop impersonating the bot user
 4. Set up project variables (*steps and menu items in gitlab*)
     - Settings
         - Pipeline trigger
