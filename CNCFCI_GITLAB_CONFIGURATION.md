@@ -59,7 +59,7 @@ In Gitlab you need to complete the following steps.
             - Pull from remote repository
             - Select mirror, add https repo address, select bot user
 
-          ![git repository mirroring ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-repository-mirroring.png "gitlab repository mirroring")
+![git repository mirroring ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-repository-mirroring.png "gitlab repository mirroring")
 	    
     - Project
         - Should see that the code is pulled down
