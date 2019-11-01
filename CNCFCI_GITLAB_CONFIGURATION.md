@@ -75,22 +75,26 @@ In Gitlab you need to complete the following steps.
 
 ![git add trigger ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-pipeline-trigger.png "gitlab add trigger")
 
-    - add trigger
-    - make sure a token is created
-      - Pipelines 
-        - Custom ci config path
+  - add trigger
+  - make sure a token is created
+    - Pipelines 
+
 
 ![git custom path ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-custom-gitlabciyml.png "gitlab custom path")
-	    
-          - e.g. https://raw.githubusercontent.com/crosscloudci/envoy-configuration/master/.gitlab-ci.yml
-        - Add cloud variable (you only need to add the CLOUD and ARCH variables)
+
+      - Custom ci config path	    
+        - e.g. https://raw.githubusercontent.com/crosscloudci/envoy-configuration/master/.gitlab-ci.yml
+
 
 ![git add trigger ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-secrets.png "gitlab add trigger")
-
-          - CLOUD
-            - e.g.  aws
-          - ARCH
-            - e.g. AMD64
+- Add Secret variables 
+  - CLOUD
+    - e.g.  aws
+  - ARCH
+    - e.g. AMD64
+  - PIPELINE_RELEASE_TYPE
+    - stable
+    
 5. Enable runners (*steps and menu items in gitlab*)
 
 ![git enable runners ](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-enable-runners.png "gitlab enable runners")
@@ -129,7 +133,7 @@ In Gitlab you need to complete the following steps.
 
 ![enviroment.rb](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-add-project-enviromentrb.png " environment.rb")
 
-1. Get token from trigger (*steps and menu items in gitlab*)
+2. Get token from trigger (*steps and menu items in gitlab*)
 
 ![.env](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-env.png " .env")
 
