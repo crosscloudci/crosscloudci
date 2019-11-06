@@ -38,7 +38,7 @@ Updating existing CNCF projects on cncf.ci:
 **How can a CNCF Project Maintainer update Project Details?** 
 - Using Prometheus as an example:
 1. Go to https://github.com/crosscloudci
-1. Open the `project-configuation` repo for the CNCF Project, ie. [prometheus-configuration](https://github.com/crosscloudci/prometheus-configuration)
+1. Open the `project-configuration` repo for the CNCF Project, ie. [prometheus-configuration](https://github.com/crosscloudci/prometheus-configuration)
 1. Open the `cncfci.yml` file on the `master` branch, ie. [cncfci.yml](https://github.com/crosscloudci/prometheus-configuration/blob/master/cncfci.yml)
 1. Click the "edit" icon
 1. Create a new branch to make updates
