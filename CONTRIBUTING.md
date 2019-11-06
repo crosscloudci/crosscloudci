@@ -65,7 +65,7 @@ Updating existing CNCF projects on cncf.ci:
 - Using CoreDNS as an example:
 
 1. Go to https://github.com/crosscloudci
-1. Open the `project-configuation` repo for the CNCF Project, ie. [coredns-configuration](https://github.com/crosscloudci/coredns-configuration)
+1. Open the `project-configuration` repo for the CNCF Project, ie. [coredns-configuration](https://github.com/crosscloudci/coredns-configuration)
 1. Open the `cncfci.yml` file on the `master` branch, ie. [cncfci.yml](https://github.com/crosscloudci/coredns-configuration/blob/master/cncfci.yml)
 1. Click the "edit" icon
 1. Create a new branch to make updates
