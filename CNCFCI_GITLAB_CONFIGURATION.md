@@ -1,4 +1,4 @@
-# Cross Cloud CI New Project Gitlab Configuration Setup
+# New cncf.ci Project Gitlab Configuration Setup
 
 # GitHub Project Configuration #
 1. Make crosscloudci/**projectname**-configuration project -- copy an existing **projectname**-configuration project (see testproj-configuration example: https://github.com/crosscloudci/testproj-configuration) 
