@@ -97,13 +97,6 @@ Updating existing CNCF projects on cncf.ci:
    1. **ci_project_url** is the gitlab url for the project.
    1. **ci_project_name** is the organization and project name of the project e.g. crosscloudci/testproj
    1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64   
-
-- Using the Test project [gitlab-ci.yml](https://github.com/crosscloudci/testproj-configuration/blob/master/.gitlab-ci.yml) as an example:
-
-![Test Project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectgitlabyml.png "Test Project gitlab-ci.yml YML")
-
-1. Modify your projects gitlab-ci.yml in your project's configuration repository
-   1. Change the **project name** (i.e. change testproject) to be your project name
    
 **How can a CNCF Project Maintainer update Build Status Results from Circle CI?**
 - The Circle CI integration is planned for November.  Only Travis CI is available at this time.
