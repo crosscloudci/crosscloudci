@@ -41,7 +41,7 @@ Updating existing CNCF projects on cncf.ci:
 1. Open the `project-configuration` repo for the CNCF Project, ie. [prometheus-configuration](https://github.com/crosscloudci/prometheus-configuration)
 1. Open the `cncfci.yml` file on the `master` branch, ie. [cncfci.yml](https://github.com/crosscloudci/prometheus-configuration/blob/master/cncfci.yml)
 1. Click the "edit" icon
-1. Create a new branch to make updates
+1. Create a fork of the project to make updates
 1. Update content, as needed: 
 ![Prometheus YML](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/prometheusyml.png "Prometheus YML")
    1. **logo_url**: "https://raw.githubusercontent.com/cncf/artwork/master/prometheus/icon/color/prometheus-icon-color.svg?sanitize=true" (for svg format, append ?sanitize=true to url)
