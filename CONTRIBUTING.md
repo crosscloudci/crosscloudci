@@ -46,7 +46,7 @@ Updating existing CNCF projects on cncf.ci:
 ![Prometheus YML](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/prometheusyml.png "Prometheus YML")
    1. **logo_url**: "https://raw.githubusercontent.com/cncf/artwork/master/prometheus/icon/color/prometheus-icon-color.svg?sanitize=true" (for svg format, append ?sanitize=true to url)
    1. **display_name**: (ie. Prometheus)
-   1. **sub_title**: (ie. Monitoring)
+   1. **sub_title**: (ie. Monitoring, up to 21 characters)
    1. **project_url**: (ie. "https://github.com/prometheus/prometheus")
 1. Submit a pull request to `master` branch
 1. Tag reviewers as CNCF.CI project maintainers: @denverwilliams, @lixuna, @taylor, @wavell
