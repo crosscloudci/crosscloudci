@@ -38,6 +38,7 @@ In Gitlab you need to complete the following steps.
    
 ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-project-admin.png "gitlab select admin")
  
+   - Select your project (e.g. jaeger)
    - Botuser needs to be in user permissions
     
 ![git select admin](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-manage-access.png "gitlab select admin")
