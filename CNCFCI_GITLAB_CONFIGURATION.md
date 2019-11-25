@@ -139,8 +139,9 @@ In Gitlab you need to complete the following steps.
 ![.env](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/gitlab-env.png " .env")
 
   - Settings
-    - Pipeline trigger
-      - copy token
+    - CI/CD
+      - Pipeline trigger
+        - copy token
     - Put in .env for trigger client
 
 ## Optional CI Setup (legacy manual build -- not using ci-proxy )
