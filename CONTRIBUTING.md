@@ -99,6 +99,29 @@ Updating existing CNCF projects on cncf.ci:
    1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64   
    
 **How can a CNCF Project Maintainer update Build Status Results from Circle CI?**
-- The Circle CI integration is planned for November.  Only Travis CI is available at this time.
+- The dashboard can use a project's internal ci system in order to capture the build status of a build.  The dashboard must be configured using the cncfci.yml and gitlab-ci.yml for the project, located in the project's configuration folder.
 
+- Using the Test Project [cncfci.yml](https://github.com/crosscloudci/testproj-configuration/blob/master/cncfci.yml) as an example:
 
+![Test Project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectcncfciyml.png "Test Project cncfci.yml YML")
+
+1. Create a ci_system element
+   1. The **ci_system** element is an array which represents a list of all of the ci_systems (e.g. multiple Circle CI endpoints, a Circle CI and a Jenkins endpoint, etc) for a project
+   1. **ci_system_type** is the type of ci system.  Use "circle-ci" for Circle CI
+   1. **ci_project_url** is the gitlab url for the project.
+   1. **ci_project_name** is the organization and project name of the project e.g. crosscloudci/testproj
+   1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64  
+
+**How can a CNCF Project Maintainer update Build Status Results from GitHub Actions?**
+- The dashboard can use a project's internal ci system in order to capture the build status of a build.  The dashboard must be configured using the cncfci.yml and gitlab-ci.yml for the project, located in the project's configuration folder.
+
+- Using the Test Project [cncfci.yml](https://github.com/crosscloudci/testproj-configuration/blob/master/cncfci.yml) as an example:
+
+![Test Project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectcncfciyml.png "Test Project cncfci.yml YML")
+
+1. Create a ci_system element
+   1. The **ci_system** element is an array which represents a list of all of the ci_systems (e.g. multiple Circle CI endpoints, a GitHub Actions and a Jenkins endpoint, etc) for a project
+   1. **ci_system_type** is the type of ci system.  Use "github-actions" for GitHub Actions
+   1. **ci_project_url** is the gitlab url for the project.
+   1. **ci_project_name** is the organization and project name of the project e.g. crosscloudci/testproj
+   1. **arch** is a list of architectures that are supported.  e.g. amd64, arm64  
