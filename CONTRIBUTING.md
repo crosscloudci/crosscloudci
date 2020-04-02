@@ -103,8 +103,6 @@ Updating existing CNCF projects on cncf.ci:
 
 - Using the Test Project [cncfci.yml](https://github.com/crosscloudci/testproj-configuration/blob/master/cncfci.yml) as an example:
 
-![Test Project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectcncfciyml.png "Test Project cncfci.yml YML")
-
 1. Create a ci_system element
    1. The **ci_system** element is an array which represents a list of all of the ci_systems (e.g. multiple Circle CI endpoints, a Circle CI and a Jenkins endpoint, etc) for a project
    1. **ci_system_type** is the type of ci system.  Use "circle-ci" for Circle CI
@@ -116,8 +114,6 @@ Updating existing CNCF projects on cncf.ci:
 - The dashboard can use a project's internal ci system in order to capture the build status of a build.  The dashboard must be configured using the cncfci.yml and gitlab-ci.yml for the project, located in the project's configuration folder.
 
 - Using the Test Project [cncfci.yml](https://github.com/crosscloudci/testproj-configuration/blob/master/cncfci.yml) as an example:
-
-![Test Project](https://raw.githubusercontent.com/crosscloudci/crosscloudci/master/testprojectcncfciyml.png "Test Project cncfci.yml YML")
 
 1. Create a ci_system element
    1. The **ci_system** element is an array which represents a list of all of the ci_systems (e.g. multiple Circle CI endpoints, a GitHub Actions and a Jenkins endpoint, etc) for a project
